@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1506634991 "main.tex" "main.pdf" "main" 1506634992
+["pdflatex"] 1506674970 "main.tex" "main.pdf" "main" 1506674971
   "/etc/texmf/web2c/texmf.cnf" 1499338588 1101 af7716885e081ab43982cab7b4672c1a ""
   "/home/artfin/.texmf-var/fonts/tfm/lh/lh-t2a/labx1200.tfm" 1494161900 3308 eee81981029f67083258db36df06e523 ""
   "/home/artfin/.texmf-var/fonts/tfm/lh/lh-t2a/labx1440.tfm" 1491517754 3304 6a543c07045572737981351171e0505e ""
@@ -92,8 +92,8 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1458942643 31351 b32c45dce4a01cb7b53ed90c546614ca ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1499338691 1863403 f3ff9a4253bcb5fb9a9baaf0c572cb01 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1499338756 3859297 bb1e70cac6101c8240393ab02e68dece ""
-  "main.aux" 1506634992 4522 1d8c005b062a2406e50fcdbe806762be ""
-  "main.tex" 1506634990 13848 96fe4867a279fd28cedb536787351575 ""
+  "main.aux" 1506674971 4795 60b4384bc000db8d868a1cf230022682 ""
+  "main.tex" 1506674969 16683 436bfa3a09a37be3d25eed85cdc47aa2 ""
   "pictures/20170911_000345.jpg" 1506609331 133690 a9b0858532fbc321d5962c4fbf65d1da ""
   "pictures/20170911_000347.jpg" 1506609331 122481 280ea8475bee5c51380d61ffd93bb175 ""
   "pictures/20170911_000349.jpg" 1506609331 103751 ad7ed4fb4a51920e369aae8cd31071b5 ""
@@ -106,6 +106,6 @@
   "pictures/logo.jpg" 1506609331 8760 820d6a682ca8013b484646cd8c1c6a39 ""
   "pictures/tungsten.png" 1506609331 35734 05d1cdf951a303e464fb06fb408a8a29 ""
   (generated)
-  "main.log"
-  "main.pdf"
   "main.aux"
+  "main.pdf"
+  "main.log"

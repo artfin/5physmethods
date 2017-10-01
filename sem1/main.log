@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.7.6)  29 SEP 2017 00:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.7.6)  29 SEP 2017 11:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -841,36 +841,36 @@ Overfull \hbox (2.61047pt too wide) in paragraph at lines 105--107
  <./pictures/feg1.png> <./pictures/feg2.png>] <pictures/20170911_000345.jpg, id=41, 341.34908pt x 256.01181pt>
 File: pictures/20170911_000345.jpg Graphic file (type jpg)
  <use pictures/20170911_000345.jpg>
-Package pdftex.def Info: pictures/20170911_000345.jpg used on input line 136.
+Package pdftex.def Info: pictures/20170911_000345.jpg used on input line 134.
 (pdftex.def)             Requested size: 250.24199pt x 187.68007pt.
  <pictures/20170911_000347.jpg, id=42, 341.34908pt x 256.01181pt>
 File: pictures/20170911_000347.jpg Graphic file (type jpg)
  <use pictures/20170911_000347.jpg>
-Package pdftex.def Info: pictures/20170911_000347.jpg used on input line 137.
+Package pdftex.def Info: pictures/20170911_000347.jpg used on input line 135.
 (pdftex.def)             Requested size: 250.24199pt x 187.68007pt.
 
-Overfull \hbox (2.61047pt too wide) in paragraph at lines 136--138
+Overfull \hbox (2.61047pt too wide) in paragraph at lines 134--136
 [][] [] 
  []
 
 <pictures/20170911_000349.jpg, id=43, 341.34908pt x 256.01181pt>
 File: pictures/20170911_000349.jpg Graphic file (type jpg)
  <use pictures/20170911_000349.jpg>
-Package pdftex.def Info: pictures/20170911_000349.jpg used on input line 141.
+Package pdftex.def Info: pictures/20170911_000349.jpg used on input line 139.
 (pdftex.def)             Requested size: 250.24199pt x 187.68007pt.
  <pictures/20170911_000350.jpg, id=44, 341.34908pt x 256.01181pt>
 File: pictures/20170911_000350.jpg Graphic file (type jpg)
  <use pictures/20170911_000350.jpg>
-Package pdftex.def Info: pictures/20170911_000350.jpg used on input line 142.
+Package pdftex.def Info: pictures/20170911_000350.jpg used on input line 140.
 (pdftex.def)             Requested size: 250.24199pt x 187.68007pt.
 
-Overfull \hbox (2.61047pt too wide) in paragraph at lines 141--143
+Overfull \hbox (2.61047pt too wide) in paragraph at lines 139--141
 [][] [] 
  []
 
 [5
 
- <./pictures/20170911_000345.jpg> <./pictures/20170911_000347.jpg> <./pictures/20170911_000349.jpg> <./pictures/20170911_000350.jpg>] (./main.aux) ) 
+ <./pictures/20170911_000345.jpg> <./pictures/20170911_000347.jpg> <./pictures/20170911_000349.jpg> <./pictures/20170911_000350.jpg>] [6] (./main.aux) ) 
 Here is how much of TeX's memory you used:
  4557 strings out of 493029
  56740 string characters out of 6136235
@@ -880,10 +880,10 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  37i,9n,26p,1850b,235s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on main.pdf (6 pages, 1083943 bytes).
+Output written on main.pdf (7 pages, 1091971 bytes).
 PDF statistics:
- 84 PDF objects out of 1000 (max. 8388607)
- 49 compressed objects within 1 object stream
+ 89 PDF objects out of 1000 (max. 8388607)
+ 53 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  56 words of extra memory for PDF output out of 10000 (max. 10000000)
 

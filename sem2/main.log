@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.7.6)  29 SEP 2017 00:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.7.6)  1 OCT 2017 22:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -689,7 +689,11 @@ Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
 LaTeX Font Info:    Try loading font information for T2A+cmr on input line 3.
  (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2acmr.fd
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-))
+)
+
+LaTeX Warning: Label `tungsten-cathode' multiply defined.
+
+)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
@@ -793,20 +797,116 @@ Package pdftex.def Info: pictures/logo.jpg used on input line 40.
 (pdftex.def)             Requested size: 150.14671pt x 122.11401pt.
  [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./pictures/logo.jpg>] (./main.aux) ) 
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./pictures/logo.jpg>]
+LaTeX Font Info:    Try loading font information for U+msa on input line 59.
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 59.
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) <pictures/delta_t.png, id=10, 560.0925pt x 504.88625pt>
+File: pictures/delta_t.png Graphic file (type png)
+ <use pictures/delta_t.png>
+Package pdftex.def Info: pictures/delta_t.png used on input line 68.
+(pdftex.def)             Requested size: 392.06207pt x 353.41795pt.
+ [1 <./pictures/delta_t.png>]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 75.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 75.
+ <pictures/graphite.png, id=20, 465.74pt x 380.42125pt>
+File: pictures/graphite.png Graphic file (type png)
+ <use pictures/graphite.png>
+Package pdftex.def Info: pictures/graphite.png used on input line 88.
+(pdftex.def)             Requested size: 232.86943pt x 190.21014pt.
+ [2 <./pictures/graphite.png>] <pictures/boat.png, id=24, 534.99875pt x 522.95375pt>
+File: pictures/boat.png Graphic file (type png)
+ <use pictures/boat.png>
+Package pdftex.def Info: pictures/boat.png used on input line 101.
+(pdftex.def)             Requested size: 267.49872pt x 261.47623pt.
+File: pictures/boat.png Graphic file (type png)
+ <use pictures/boat.png>
+Package pdftex.def Info: pictures/boat.png used on input line 110.
+(pdftex.def)             Requested size: 213.9957pt x 209.1778pt.
+ [3 <./pictures/boat.png>] <pictures/20170918_000353.jpg, id=28, 341.34908pt x 256.01181pt>
+File: pictures/20170918_000353.jpg Graphic file (type jpg)
+ <use pictures/20170918_000353.jpg>
+Package pdftex.def Info: pictures/20170918_000353.jpg used on input line 124.
+(pdftex.def)             Requested size: 238.94272pt x 179.20705pt.
+ <pictures/20170918_000355.jpg, id=29, 342.61333pt x 256.96pt>
+File: pictures/20170918_000355.jpg Graphic file (type jpg)
+ <use pictures/20170918_000355.jpg>
+Package pdftex.def Info: pictures/20170918_000355.jpg used on input line 125.
+(pdftex.def)             Requested size: 239.82768pt x 179.87076pt.
+ <pictures/20170918_000356.jpg, id=30, 341.34908pt x 256.01181pt>
+File: pictures/20170918_000356.jpg Graphic file (type jpg)
+ <use pictures/20170918_000356.jpg>
+Package pdftex.def Info: pictures/20170918_000356.jpg used on input line 126.
+(pdftex.def)             Requested size: 238.94272pt x 179.20705pt.
+ <pictures/20170918_000357.jpg, id=31, 341.34908pt x 256.01181pt>
+File: pictures/20170918_000357.jpg Graphic file (type jpg)
+ <use pictures/20170918_000357.jpg>
+Package pdftex.def Info: pictures/20170918_000357.jpg used on input line 127.
+(pdftex.def)             Requested size: 238.94272pt x 179.20705pt.
+ <pictures/20170918_000358.jpg, id=32, 341.34908pt x 256.01181pt>
+File: pictures/20170918_000358.jpg Graphic file (type jpg)
+ <use pictures/20170918_000358.jpg>
+Package pdftex.def Info: pictures/20170918_000358.jpg used on input line 133.
+(pdftex.def)             Requested size: 238.94272pt x 179.20705pt.
+ <pictures/20170918_000360.jpg, id=33, 341.34908pt x 256.01181pt>
+File: pictures/20170918_000360.jpg Graphic file (type jpg)
+ <use pictures/20170918_000360.jpg>
+Package pdftex.def Info: pictures/20170918_000360.jpg used on input line 134.
+(pdftex.def)             Requested size: 238.94272pt x 179.20705pt.
+ <pictures/20170918_000362.jpg, id=34, 341.34908pt x 256.01181pt>
+File: pictures/20170918_000362.jpg Graphic file (type jpg)
+ <use pictures/20170918_000362.jpg>
+Package pdftex.def Info: pictures/20170918_000362.jpg used on input line 138.
+(pdftex.def)             Requested size: 238.94272pt x 179.20705pt.
+
+<pictures/20170918_000363.jpg, id=35, 341.34908pt x 256.01181pt>
+File: pictures/20170918_000363.jpg Graphic file (type jpg)
+ <use pictures/20170918_000363.jpg>
+Package pdftex.def Info: pictures/20170918_000363.jpg used on input line 139.
+(pdftex.def)             Requested size: 238.94272pt x 179.20705pt.
+ <pictures/20170918_000364.jpg, id=36, 341.34908pt x 256.01181pt>
+File: pictures/20170918_000364.jpg Graphic file (type jpg)
+ <use pictures/20170918_000364.jpg>
+Package pdftex.def Info: pictures/20170918_000364.jpg used on input line 140.
+(pdftex.def)             Requested size: 238.94272pt x 179.20705pt.
+ <pictures/20170918_000365.jpg, id=37, 341.34908pt x 256.01181pt>
+File: pictures/20170918_000365.jpg Graphic file (type jpg)
+ <use pictures/20170918_000365.jpg>
+Package pdftex.def Info: pictures/20170918_000365.jpg used on input line 141.
+(pdftex.def)             Requested size: 238.94272pt x 179.20705pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--142
+[][] []
+ []
+
+[4] [5 <./pictures/20170918_000353.jpg> <./pictures/20170918_000355.jpg> <./pictures/20170918_000356.jpg> <./pictures/20170918_000357.jpg> <./pictures/20170918_000358.jpg> <./pictures/20170918_000360.jpg>] [6 <./pictures/20170918_000362.jpg> <./pictures/20170918_000363.jpg> <./pictures/20170918_000364.jpg> <./pictures/20170918_000365.jpg>] [7
+
+] (./main.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 4456 strings out of 493029
- 54793 string characters out of 6136235
- 126810 words of memory out of 5000000
- 7915 multiletter control sequences out of 15000+600000
- 9572 words of font info for 22 fonts, out of 8000000 for 9000
+ 4592 strings out of 493029
+ 57693 string characters out of 6136235
+ 130857 words of memory out of 5000000
+ 8015 multiletter control sequences out of 15000+600000
+ 13919 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 37i,4n,26p,237b,204s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb>
-Output written on main.pdf (1 page, 47376 bytes).
+ 37i,8n,26p,4121b,229s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb>
+Output written on main.pdf (8 pages, 2918592 bytes).
 PDF statistics:
- 22 PDF objects out of 1000 (max. 8388607)
- 14 compressed objects within 1 object stream
+ 82 PDF objects out of 1000 (max. 8388607)
+ 48 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 71 words of extra memory for PDF output out of 10000 (max. 10000000)
 
