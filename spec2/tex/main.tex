@@ -1,0 +1,159 @@
+\documentclass[14pt]{extarticle}
+
+\usepackage[utf8]{inputenc}
+\usepackage[russian]{babel}
+
+% page margin
+\usepackage[top=0.5cm, bottom=0.5cm, left=1cm, right=1cm]{geometry}
+
+% AMS packages
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{amsthm}
+
+\usepackage{float}
+\usepackage{graphicx}
+\usepackage{tabularx}
+\usepackage[justification=centering]{caption}
+
+\newcommand{\lb}{\left(}
+\newcommand{\rb}{\right)}
+\newcommand{\dprime}{{\prime\prime}}
+
+\makeatletter
+\setlength{\@fptop}{0pt}
+\makeatother
+
+\renewcommand{\arraystretch}{1.2}
+
+\begin{document}
+
+\begin{table}[t]
+	\begin{minipage}{0.4\textwidth}
+		\centering
+		\begin{tabular}{|c|c|c|c|}
+			\hline
+			J & $\nu \lb P_J \rb$ & $\nu \lb R_J \rb$ & m \\
+			\hline
+			$29$ & $1261.92$ & & $-29$ \\
+			$28$ & $1264.21$ & & $-28$ \\
+			$27$ & $1266.45$ & & $-27$ \\
+			$26$ & $1268.73$ & & $-26$ \\
+			$25$ & $1270.97$ & & $-25$ \\
+			$24$ & $1273.23$ & & $-24$ \\
+			$23$ & $1275.49$ & & $-23$ \\
+			$22$ & $1277.75$ & & $-22$ \\
+			$21$ & $1280.01$ & & $-21$ \\
+			$20$ & $1282.25$ & & $-20$ \\
+			$19$ & $1284.48$ & & $-19$ \\
+			$18$ & $1286.72$ & & $-18$ \\
+			$17$ & $1288.96$ & & $-17$ \\
+			$16$ & $1291.21$ & & $-16$ \\
+			$15$ & $1293.48$ & & $-15$ \\
+			$14$ & $1295.73$ & & $-14$ \\
+			$13$ & $1297.99$ & & $-13$ \\
+			$12$ & $1300.28$ & & $-12$ \\
+			$11$ & $1302.56$ & & $-11$ \\
+			$10$ & $1304.85$ & & $-10$ \\
+			$9$ & $1307.14$ & & $-9$ \\
+			$8$ & $1309.45$ & & $-8$ \\
+			$7$ & $1311.78$ & & $-7$ \\
+			$6$ & $1314.07$ & & $-6$ \\
+			$5$ & $1316.43$ & & $-5$ \\
+			$4$ & $1318.76$ & & $-4$ \\
+			$3$ & $1321.02$ & & $-3$ \\
+			$2$ & $1323.39$ & & $-2$ \\
+			$1$ & $1325.70$ & & $-1$ \\
+			\hline
+		\end{tabular}
+	\end{minipage}
+	\begin{minipage}{0.3\linewidth}
+		\begin{tabular}{|c|c|c|c|}
+			\hline 
+			J & $\nu \lb P_J \rb$ & $\nu \lb R_J \rb$ & m \\
+			\hline
+			$0$ & & $1330.45$ & $1$ \\
+			$1$ & & $1332.84$ & $2$ \\
+			$2$ & & $1335.25$ & $3$ \\
+			$3$ & & $1337.65$ & $4$ \\
+			$4$ & & $1340.05$ & $5$ \\
+			$5$ & & $1342.37$ & $6$ \\
+			$6$ & & $1344.82$ & $7$ \\
+			$7$ & & $1347.19$ & $8$ \\
+			$8$ & & $1349.58$ & $9$ \\
+			$9$ & & $1351.99$ & $10$ \\
+			$10$ & & $1354.45$ & $11$ \\
+			$11$ & & $1356.82$ & $12$ \\
+			$12$ & & $1359.24$ & $13$ \\
+			$13$ & & $1361.67$ & $14$ \\
+			$14$ & & $1364.05$ & $15$ \\
+			$15$ & & $1366.55$ & $16$ \\
+			$16$ & & $1368.90$ & $17$ \\
+			$17$ & & $1371.45$ & $18$ \\
+			$18$ & & $1373.84$ & $19$ \\
+			$19$ & & $1376.28$ & $20$ \\
+			$20$ & & $1378.77$ & $21$ \\
+			$21$ & & $1381.19$ & $22$ \\
+			$22$ & & $1383.67$ & $23$ \\
+			$23$ & & $1386.21$ & $24$ \\
+			$24$ & & $1388.45$ & $25$ \\
+			$25$ & & $1390.90$ & $26$ \\ 		
+			\hline
+		\end{tabular}
+	\end{minipage}
+\end{table}
+
+\clearpage
+\begin{figure}[!ht]
+	\centering
+	\includegraphics[scale=0.6]{pictures/pic1.png}
+	\captionof{figure}{Обработка результатов по ур. (I.2) полосы $\nu_4 + \nu_5$}
+\end{figure}
+
+\begin{table}[!ht]
+	\centering
+	\begin{tabular}{|c|c|c|}
+	\hline 
+	& расчет & лит. \\
+	\hline
+	$\nu_0$, см$^{-1}$ & $1328.17$ & $1328.18$ \\
+	$B_1$, см$^{-1}$ & $1.178$ &  \\
+	$B_2$, см$^{-1}$ & $1.175$ &  \\
+	$B_e$, см$^{-1}$ & $1.174$ &  $1.1751$ \\
+	$\alpha_{e, eff}$, см$^{-1}$ & $-0.00257$ &  $-0.003586$ \\
+	$I$, г$\cdot$см$^2$ & $2.384 \cdot 10^{-39}$ & $2.368 \cdot 10^{-39}$ \\
+	$r_{CC}$, \AA & $1.213$ & $1.2088 \pm 0.0002$ \\
+	$r_{CH}$, \AA & $1.050$ & $1.0566 \pm 0.0003$ \\
+	\hline
+	\end{tabular}
+\end{table}
+
+\begin{gather}
+	\nu \lb J \rb = \nu_0 + \lb B^\prime + B^{\prime\prime} \rb m + \lb B^\prime - B^{\prime\prime} \rb m^2 \notag \\
+	\begin{aligned}
+		B^\prime = B_e - \frac{1}{2} \alpha_e \\
+		B^\dprime = B_e - \frac{3}{2} \alpha_e 
+	\end{aligned}
+	\quad \implies \quad
+	\begin{aligned}
+		B_e &= \frac{1}{2} \lb 3 B^\dprime - B^\prime \rb \\
+		\alpha_e &= B^\dprime - B^\prime
+	\end{aligned} \notag \\
+	\begin{aligned}
+		I_H &= 2 m_C R_C^2 + 2 m_H R_H^2 \\
+		I_D &= 2 m_C R_C^2 + 2 m_D R_D^2 
+	\end{aligned}
+	\quad \implies \quad 
+	\begin{aligned}
+		R_H^2 &= \frac{I_D - I_H}{2 \lb m_D - m_H \rb} \\
+		R_C^2 &= \frac{I_H}{2 m_C} - \frac{m_H}{m_C} \cdot \frac{I_D - I_H}{2 \lb m_D - m_H \rb}
+	\end{aligned} \notag \\
+	\begin{aligned}
+		r_{CC} &= 2 \cdot R_C \\
+		r_{CH} &= R_{H} - R_C
+	\end{aligned} \notag
+\end{gather}
+
+\end{document}
+
