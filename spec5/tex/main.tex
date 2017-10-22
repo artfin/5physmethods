@@ -1,0 +1,74 @@
+\documentclass[14pt]{extarticle}
+
+% \usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[russian]{babel}
+
+% page margin
+\usepackage[top=2cm, bottom=2cm, left=1cm, right=1cm]{geometry}
+
+% AMS packages
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{amsthm}
+
+\usepackage{float}
+\usepackage{graphicx}
+\usepackage{tabularx}
+\usepackage[justification=centering]{caption}
+
+\newcommand{\lb}{\left(}
+\newcommand{\rb}{\right)}
+\newcommand{\dprime}{{\prime\prime}}
+
+\makeatletter
+\setlength{\@fptop}{0pt}
+\makeatother
+
+\renewcommand{\arraystretch}{1.2}
+
+\begin{document}
+
+\begin{table}
+\centering
+\begin{tabular}{|c|c|c|c|c|}
+\hline
+\multicolumn{2}{|c|}{ИК: $\nu$(см$^{-1}$)} & \multicolumn{2}{|c|}{КР: $\nu$(см$^{-1}$)} & отнесение \\
+\hline
+эксперимент & литература & эксперимент & литература & \\
+\hline
+& & 2938.48 & 2938 о.с., п. & $\nu_{as}(CH_2)$ \\
+2927.75 & 2933 о.с. & & & $\nu_{as}(CH_2)$ \\
+& & 2923.82 & 2923 о.с., п. & $\nu_{as}(CH_2)$ \\
+& 2915 ср. & & & $\nu_{as}(CH_2)$ \\
+& 2863 о.с. & & & $\nu_{s}(CH_2)$ \\
+& & 2888.24 & 2897 ср. дп & $\nu_{s}(CH_2)$ \\
+2852.57 & & 2753.02 & 2852 о.с., п. & $\nu_{s}(CH_2)$ \\
+2793.46 & & 2799.24 & & \\
+& & 2698.04 & & \\
+& & 2664.67 & & \\
+2660.56 & & 2663.40 & & \\
+& & 1468 & 1465 ср., дп & sciss$(CH_2)$ \\
+1450.09 & 1457 о.с. & & & sciss$(CH_2)$ \\
+& 1355 сл. & & & wag$(CH_2)$ \\
+& & 1345.80 & 1347 с., дп & wag$(CH_2)$ \\
+& & 1266.84 & 1266 о.с., дп & twist$(CH_2)$ \\
+1257.23 & 1261 с. & & & twist$(CH_2)$ \\
+& & 1158.10 & 1157 с., п & rock$(CH_2)$ \\
+1039.24 & 1040 с. & & & rock$(CH_2)$ \\
+& & 1028.66 & 1027 о.с., дп & $\nu(CC)$ \\
+& 1016 с. & & & rock$(CH_2)$ \\
+903.58 & 907 с. & & & rock$(CH_2)$ \\
+861.80 & 863 с. & & & $\nu(CC) $ \\
+& & 802.22 & 802 о.с., п. & $\nu(CC)$ \\
+& & & 785 о.сл., дп & rock$(CH_2)$ \\
+523.81 & 523 сл. & & & $\delta(CCC)$ \\
+& & 426.98 & 426 сл., дп $ &\delta(CCC)$ \\
+& & 384.52 & 383 ср., п & $\delta(CCC)$ \\
+& 248 о.сл. & & & $\delta(CCC)$ \\
+\hline
+\end{tabular}
+\end{table}
+
+\end{document}

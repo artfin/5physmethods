@@ -1,0 +1,129 @@
+\documentclass[14pt]{extarticle}
+
+% \usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[russian]{babel}
+
+% page margin
+\usepackage[top=2cm, bottom=2cm, left=1cm, right=1cm]{geometry}
+
+% AMS packages
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{amsthm}
+
+\usepackage{float}
+\usepackage{graphicx}
+\usepackage{tabularx}
+\usepackage[justification=centering]{caption}
+
+\newcommand{\lb}{\left(}
+\newcommand{\rb}{\right)}
+\newcommand{\dprime}{{\prime\prime}}
+
+\makeatletter
+\setlength{\@fptop}{0pt}
+\makeatother
+
+\renewcommand{\arraystretch}{1.2}
+
+\begin{document}
+
+\begin{table}
+\begin{minipage}[t]{0.5\textwidth}
+
+\centering
+\begin{tabular}{|c|c|c|c|}
+\hline
+J & $\nu$(P(J) & $\nu$R(J) & m \\
+\hline
+13& 2885.1 & & -13 \\
+12& 2895.06 & & -12 \\
+11& 2906.53 & & -11 \\
+10& 2916.72 & & -10 \\
+9& 2926.92 & & -9 \\
+8& 2937.44 & & -8 \\
+7& 2947.95 & & -7 \\
+6& 2958.26 & & -6 \\
+5& 2968.57 & & -5 \\
+4& 2978.88 & & -4 \\
+3& 2988.84 & & -3 \\
+2& 2998.96 & & -2 \\
+0& & 3028.67 & 1 \\
+1& & 3038.42 & 2 \\
+2& & 3048.09 & 3 \\
+3& & 3057.63 & 4 \\
+4& & 3067.18 & 5 \\
+5& & 3076.57 & 6 \\
+6& & 3085.86 & 7 \\
+7& & 3095.16 & 8 \\
+8& & 3104.34 & 9 \\
+9& & 3113.38 & 10 \\
+10& & 3122.43 & 11 \\
+11& & 3131.33 & 12 \\
+12& & 3140.16 & 13 \\
+13& & 3148.89 & 14 \\
+14& & 3157.56 & 15 \\
+\hline
+\end{tabular}
+
+\end{minipage}%
+\begin{minipage}[t]{0.5\textwidth}
+
+\centering
+\begin{tabular}{|c|c|c|c|}
+\hline
+J & $\nu$(P(J) & $\nu$R(J) & m \\
+\hline
+10& 1247.75 & & -10 \\
+9& 1253.63 & & -9 \\
+8& 1259.71 & & -8 \\
+7& 1265.51 & & -7 \\
+6& 1271.43 & & -6 \\
+5& 1277.37 & & -5 \\
+4& 1283.2 & & -4 \\
+3& 1289.08 & & -3 \\
+2& 1294.48 & & -2 \\
+1& 1299.79 & & -1 \\
+0& & 1311.39 & 1 \\
+1& & 1316.81 & 2 \\
+2& & 1322.07 & 3 \\
+3& & 1327.21 & 4 \\
+4& & 1332.48 & 5 \\
+5& & 1337.63 & 6 \\
+6& & 1342.71 & 7 \\
+7& & 1347.95 & 8 \\
+8& & 1353.06 & 9 \\
+\hline
+\end{tabular}
+
+\end{minipage}
+\end{table}
+
+\clearpage
+
+\begin{figure}[!ht]
+\begin{minipage}{0.5\textwidth}
+		\centering
+		\includegraphics[width=0.9\textwidth, height=1.1\textwidth]{../nu4_regr.png}
+\end{minipage}%
+\begin{minipage}{0.5\textwidth}
+		\centering
+		\includegraphics[width=0.9\textwidth, height=1.1\textwidth]{../nu3_regr.png}
+\end{minipage}
+\end{figure}
+
+\begin{table}[!hf]
+	\centering	
+	\begin{tabular}{|c|c|c|c|c|c|c|c|}
+		\hline		
+	& $\nu_0^3$, см$^{-1}$ & $\nu_0^4$, см$^{-1}$ & $B_1^3$, см$^{-1}$ & $B_1^4$, см$^{-1}$ & $B_0$, см$^{-1}$ & $\zeta_3$ & $\zeta_4$ \\
+		\hline 
+	расчет & 3018.82 & 1305.68 & 5.091 & 5.099 & 5.129 & 0.0379 & 0.462 \\
+	лит. & 3019.49 & 1310.76 & 5.1996 & 5.1687 & 5.241 & 0.036 & 0.464 \\
+	\hline
+	\end{tabular}
+\end{table}
+
+\end{document}
