@@ -16,6 +16,7 @@
 \usepackage{float}
 \usepackage{graphicx}
 \usepackage{tabularx}
+\usepackage{multirow}
 
 \newcommand{\lb}{\left(}
 \newcommand{\rb}{\right)}
@@ -91,5 +92,29 @@ $298.15$ & $78.3$ & $0.4860$ & $3.236 \cdot 10^9$ & $4.944$ \\
 	\Lambda = \Lambda^0 - ( 60.4 \cdot 10^{-4} + 0.23 \Lambda^0 ) \sqrt{c} \notag
 \end{gather}
 
+\begin{figure}[!ht]
+\centering
+\includegraphics[scale = 0.6]{../pictures/ofu.png}
+\caption{Эквивалентная электропроводность $\Lambda$ от корня из концентрации $\sqrt{C}$ водного раствора $NaBr$}
+\end{figure}
+
+\begin{table}
+\centering
+\begin{tabular}{|c|c|c|c|c|c|}
+	\hline
+	& $r_{Cr}$, \AA & $r_M + \Delta r$, \AA & $r_K$, \AA & $a_{DH}$, \AA & $a_{OF}$, \AA \\
+	\hline
+	Na$^{+}$ & 1.02 & 2.18 & 1.0 & \multirow{2}{*}{4.94} & \multirow{2}{*}{4.71} \\
+	Br$^{-}$ & 1.96 & 2.31 & 2.0 & & \\
+	\hline
+\end{tabular}
+\caption{Сопоставление данных о размерах ионов: $r_{Cr}$ -- кристаллографический радиус, $r_M + \Delta r$ -- оценка размера сольватной оболочки из "исправленной" модели Борна; $r_K$ -- по подочным параметрам Киллэнда; $a_{DH}$ -- параметр во втором приближении теории Дебая-Хюккеля; $_{OF}$ -- параметр в уравнении Онзагера-Фуосса}
+\end{table}
+
+\subsection*{Список литературы}
+\begin{enumerate}
+	\item CRC Handbook. \textit{CRC Handbook of Chemistry and Physics, 88th edition}. CRC Press, 2004
+	\item Jervis, R. E., Muir, D. R., Butler, J. P. and Gordon, A. R. \textit{J. Am. Chem. Soc.}, \textbf{1953}, \textit{75} (12)
+\end{enumerate}
 
 \end{document}
