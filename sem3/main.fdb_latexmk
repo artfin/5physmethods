@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1511295623 "main.tex" "main.pdf" "main" 1511295623
+["pdflatex"] 1511301360 "main.tex" "main.pdf" "main" 1511301361
   "/etc/texmf/web2c/texmf.cnf" 1499338588 1101 af7716885e081ab43982cab7b4672c1a ""
   "/home/artfin/.texmf-var/fonts/tfm/lh/lh-t2a/labx1200.tfm" 1494161900 3308 eee81981029f67083258db36df06e523 ""
   "/home/artfin/.texmf-var/fonts/tfm/lh/lh-t2a/labx1440.tfm" 1491517754 3304 6a543c07045572737981351171e0505e ""
@@ -93,8 +93,18 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1458942643 31351 b32c45dce4a01cb7b53ed90c546614ca ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1499338691 1863403 f3ff9a4253bcb5fb9a9baaf0c572cb01 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1499338756 3859297 bb1e70cac6101c8240393ab02e68dece ""
-  "main.aux" 1511295623 3280 9214ec5b5d608ee96e38b9c55f6cbc68 ""
-  "main.tex" 1511295622 24342 639c103d886962fd6200f682bca58c13 ""
+  "main.aux" 1511301361 4943 823ff78c797b7d9f611a1af1c1e5384e ""
+  "main.tex" 1511301353 27285 c4b718b486e0eed23bf744779676f73c ""
+  "pictures/20170925_000371.jpg" 1506366996 242597 2db6d48911041ec3a818c32e45c8e5a2 ""
+  "pictures/20170925_000372.jpg" 1506367208 205657 8dc5c997353c06548e05b037cde11f75 ""
+  "pictures/20170925_000373.jpg" 1506367220 133491 6ec8e669f5f4dd00c4aa10edf69ee0b6 ""
+  "pictures/20170925_000374.jpg" 1506367412 151332 58e7cc04a5502da0ac27979326968e8a ""
+  "pictures/20170925_000375.jpg" 1506367580 143162 6d85bbb38b9023c41112dd9a4c55fca1 ""
+  "pictures/20170925_000376.jpg" 1506367708 225359 070da3fd0b2bb29b62775ac0518b52b2 ""
+  "pictures/20170925_000378.jpg" 1506368362 138312 b43a8f01331ffaf6ebae69eaa2579cdf ""
+  "pictures/20170925_000379.jpg" 1506368592 173587 4446d4bd83c67eb962f398e5d401f8f8 ""
+  "pictures/20170925_000384.jpg" 1506370146 192434 7c8366001b4974a71f6888931943e427 ""
+  "pictures/20170925_000385.jpg" 1506370330 244956 1590306fa1b404c9095a9896ffeae8e0 ""
   "pictures/diffusion_pump1.jpg" 1511289169 70296 ee36d1dc69fd7c967e241b6e230c2a68 ""
   "pictures/diffusion_pump2.jpg" 1511289202 46957 3866c9766ef96b0b4f367cb7e8d19fa8 ""
   "pictures/ion_pump.jpg" 1511295514 76587 ef176ef59d8c8c0c2f852d98833c1c13 ""
@@ -103,6 +113,6 @@
   "pictures/turbomolecular_pump.jpg" 1511291790 38052 a385464c77ed85d254f5d1fbcbeae9a3 ""
   "pictures/turbomolecular_pump2.jpg" 1511291924 50394 714e0d2b156d56f098c8347101073b94 ""
   (generated)
+  "main.log"
   "main.pdf"
   "main.aux"
-  "main.log"
