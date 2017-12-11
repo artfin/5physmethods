@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1506885808 "main.tex" "main.pdf" "main" 1506885809
+["pdflatex"] 1512990850 "main.tex" "main.pdf" "main" 1512990850
   "/etc/texmf/web2c/texmf.cnf" 1499338588 1101 af7716885e081ab43982cab7b4672c1a ""
   "/home/artfin/.texmf-var/fonts/tfm/lh/lh-t2a/labx1200.tfm" 1494161900 3308 eee81981029f67083258db36df06e523 ""
   "/home/artfin/.texmf-var/fonts/tfm/lh/lh-t2a/labx1440.tfm" 1491517754 3304 6a543c07045572737981351171e0505e ""
@@ -90,8 +90,8 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1458942643 31351 b32c45dce4a01cb7b53ed90c546614ca ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1499338691 1863403 f3ff9a4253bcb5fb9a9baaf0c572cb01 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1499338756 3859297 bb1e70cac6101c8240393ab02e68dece ""
-  "main.aux" 1506885809 8839 db6a017d9a28f8a74ca3e47b226bc67f ""
-  "main.tex" 1506885808 15038 53e6913497756bdbc5611cb6e983781c ""
+  "main.aux" 1512990850 8839 8ae5f9531dfe1c086ef31533e6f6b3e5 ""
+  "main.tex" 1512990849 15127 4966cebdf4e19bd2a44be823cca291c8 ""
   "pictures/20170918_000353.jpg" 1505761900 262568 e8d8d2db25dfa1537200876df01eaf59 ""
   "pictures/20170918_000355.jpg" 1505761980 393129 5ae748bb0859acbce44b1132f2f1e544 ""
   "pictures/20170918_000356.jpg" 1505762612 275347 6e6f89698010e668070e457d81f040ef ""
@@ -105,8 +105,9 @@
   "pictures/boat.png" 1506882341 50755 3823ddb3aefceb0f456fccfb88dae11c ""
   "pictures/delta_t.png" 1506880117 40747 9124eed49ab98d12ed8f8b49a2779749 ""
   "pictures/graphite.png" 1506881054 78625 4fd8eca47670d82ae10c6911159c17bf ""
+  "pictures/ionic.png" 1506882765 34924 df9c3572dfd00a0f9418f8f323a5dc13 ""
   "pictures/logo.jpg" 1506635211 8760 820d6a682ca8013b484646cd8c1c6a39 ""
   (generated)
-  "main.pdf"
-  "main.aux"
   "main.log"
+  "main.aux"
+  "main.pdf"

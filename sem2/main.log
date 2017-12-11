@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.7.6)  1 OCT 2017 22:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.7.6)  11 DEC 2017 14:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -827,57 +827,58 @@ File: pictures/boat.png Graphic file (type png)
  <use pictures/boat.png>
 Package pdftex.def Info: pictures/boat.png used on input line 101.
 (pdftex.def)             Requested size: 267.49872pt x 261.47623pt.
-File: pictures/boat.png Graphic file (type png)
- <use pictures/boat.png>
-Package pdftex.def Info: pictures/boat.png used on input line 110.
-(pdftex.def)             Requested size: 213.9957pt x 209.1778pt.
- [3 <./pictures/boat.png>] <pictures/20170918_000353.jpg, id=28, 341.34908pt x 256.01181pt>
+ <pictures/ionic.png, id=25, 575.14874pt x 519.9425pt>
+File: pictures/ionic.png Graphic file (type png)
+ <use pictures/ionic.png>
+Package pdftex.def Info: pictures/ionic.png used on input line 110.
+(pdftex.def)             Requested size: 230.05542pt x 207.97331pt.
+ [3 <./pictures/boat.png>] <pictures/20170918_000353.jpg, id=29, 341.34908pt x 256.01181pt>
 File: pictures/20170918_000353.jpg Graphic file (type jpg)
  <use pictures/20170918_000353.jpg>
 Package pdftex.def Info: pictures/20170918_000353.jpg used on input line 124.
 (pdftex.def)             Requested size: 238.94272pt x 179.20705pt.
- <pictures/20170918_000355.jpg, id=29, 342.61333pt x 256.96pt>
+ <pictures/20170918_000355.jpg, id=30, 342.61333pt x 256.96pt>
 File: pictures/20170918_000355.jpg Graphic file (type jpg)
  <use pictures/20170918_000355.jpg>
 Package pdftex.def Info: pictures/20170918_000355.jpg used on input line 125.
 (pdftex.def)             Requested size: 239.82768pt x 179.87076pt.
- <pictures/20170918_000356.jpg, id=30, 341.34908pt x 256.01181pt>
+ <pictures/20170918_000356.jpg, id=31, 341.34908pt x 256.01181pt>
 File: pictures/20170918_000356.jpg Graphic file (type jpg)
  <use pictures/20170918_000356.jpg>
 Package pdftex.def Info: pictures/20170918_000356.jpg used on input line 126.
 (pdftex.def)             Requested size: 238.94272pt x 179.20705pt.
- <pictures/20170918_000357.jpg, id=31, 341.34908pt x 256.01181pt>
+ <pictures/20170918_000357.jpg, id=32, 341.34908pt x 256.01181pt>
 File: pictures/20170918_000357.jpg Graphic file (type jpg)
  <use pictures/20170918_000357.jpg>
 Package pdftex.def Info: pictures/20170918_000357.jpg used on input line 127.
 (pdftex.def)             Requested size: 238.94272pt x 179.20705pt.
- <pictures/20170918_000358.jpg, id=32, 341.34908pt x 256.01181pt>
+ <pictures/20170918_000358.jpg, id=33, 341.34908pt x 256.01181pt>
 File: pictures/20170918_000358.jpg Graphic file (type jpg)
  <use pictures/20170918_000358.jpg>
 Package pdftex.def Info: pictures/20170918_000358.jpg used on input line 133.
 (pdftex.def)             Requested size: 238.94272pt x 179.20705pt.
- <pictures/20170918_000360.jpg, id=33, 341.34908pt x 256.01181pt>
+ <pictures/20170918_000360.jpg, id=34, 341.34908pt x 256.01181pt>
 File: pictures/20170918_000360.jpg Graphic file (type jpg)
  <use pictures/20170918_000360.jpg>
 Package pdftex.def Info: pictures/20170918_000360.jpg used on input line 134.
 (pdftex.def)             Requested size: 238.94272pt x 179.20705pt.
- <pictures/20170918_000362.jpg, id=34, 341.34908pt x 256.01181pt>
+
+<pictures/20170918_000362.jpg, id=35, 341.34908pt x 256.01181pt>
 File: pictures/20170918_000362.jpg Graphic file (type jpg)
  <use pictures/20170918_000362.jpg>
 Package pdftex.def Info: pictures/20170918_000362.jpg used on input line 138.
 (pdftex.def)             Requested size: 238.94272pt x 179.20705pt.
-
-<pictures/20170918_000363.jpg, id=35, 341.34908pt x 256.01181pt>
+ <pictures/20170918_000363.jpg, id=36, 341.34908pt x 256.01181pt>
 File: pictures/20170918_000363.jpg Graphic file (type jpg)
  <use pictures/20170918_000363.jpg>
 Package pdftex.def Info: pictures/20170918_000363.jpg used on input line 139.
 (pdftex.def)             Requested size: 238.94272pt x 179.20705pt.
- <pictures/20170918_000364.jpg, id=36, 341.34908pt x 256.01181pt>
+ <pictures/20170918_000364.jpg, id=37, 341.34908pt x 256.01181pt>
 File: pictures/20170918_000364.jpg Graphic file (type jpg)
  <use pictures/20170918_000364.jpg>
 Package pdftex.def Info: pictures/20170918_000364.jpg used on input line 140.
 (pdftex.def)             Requested size: 238.94272pt x 179.20705pt.
- <pictures/20170918_000365.jpg, id=37, 341.34908pt x 256.01181pt>
+ <pictures/20170918_000365.jpg, id=38, 341.34908pt x 256.01181pt>
 File: pictures/20170918_000365.jpg Graphic file (type jpg)
  <use pictures/20170918_000365.jpg>
 Package pdftex.def Info: pictures/20170918_000365.jpg used on input line 141.
@@ -887,7 +888,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 138--142
 [][] []
  []
 
-[4] [5 <./pictures/20170918_000353.jpg> <./pictures/20170918_000355.jpg> <./pictures/20170918_000356.jpg> <./pictures/20170918_000357.jpg> <./pictures/20170918_000358.jpg> <./pictures/20170918_000360.jpg>] [6 <./pictures/20170918_000362.jpg> <./pictures/20170918_000363.jpg> <./pictures/20170918_000364.jpg> <./pictures/20170918_000365.jpg>] [7
+[4 <./pictures/ionic.png>] [5 <./pictures/20170918_000353.jpg> <./pictures/20170918_000355.jpg> <./pictures/20170918_000356.jpg> <./pictures/20170918_000357.jpg> <./pictures/20170918_000358.jpg> <./pictures/20170918_000360.jpg>] [6 <./pictures/20170918_000362.jpg> <./pictures/20170918_000363.jpg> <./pictures/20170918_000364.jpg> <./pictures/20170918_000365.jpg>] [7
 
 ] (./main.aux)
 
@@ -895,18 +896,18 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 4592 strings out of 493029
- 57693 string characters out of 6136235
+ 4597 strings out of 493029
+ 57793 string characters out of 6136235
  130857 words of memory out of 5000000
- 8015 multiletter control sequences out of 15000+600000
+ 8019 multiletter control sequences out of 15000+600000
  13919 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  37i,8n,26p,4121b,229s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb>
-Output written on main.pdf (8 pages, 2918592 bytes).
+Output written on main.pdf (8 pages, 2951543 bytes).
 PDF statistics:
- 82 PDF objects out of 1000 (max. 8388607)
+ 83 PDF objects out of 1000 (max. 8388607)
  48 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 71 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 76 words of extra memory for PDF output out of 10000 (max. 10000000)
 
